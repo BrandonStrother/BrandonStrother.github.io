@@ -1,3 +1,2 @@
-#test  
-(https://github.com/BrandonStrother/BrandonStrother.github.io)  
-https://github.com/users/BrandonStrother/projects/3  
+#Description of Program  
+The program was made to be an order form to a company to sell tables and chairs  
